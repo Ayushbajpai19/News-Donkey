@@ -1,3 +1,8 @@
+# News Donkey
+This project was made to get all lates news of all the categories on one platform and at one go.
+To run this project, simply open the code and in ther terminal, type run start build and click enter.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
